@@ -1,0 +1,16 @@
+{
+    "github": "https://github.com/MrNiz/VaporeonBot",
+  
+    "modules": {
+        "help": {
+            "desc": "Help commands, i have some commands like `v!aboutme` or `v!ping`",
+            "display": "ℹ Help module"
+        },
+        "general": {
+            "desc": "Commands of moderation like `v!say` or `v!echo`",
+            "display": "☂ General module"
+        }
+    }
+
+  
+}
